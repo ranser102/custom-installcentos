@@ -1,4 +1,4 @@
-*~
+#*~
 validate/env.sh
 validate/.terraform
 validate/terraform.*
