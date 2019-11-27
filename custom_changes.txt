@@ -1,0 +1,7 @@
+./playbooks/init/base_packages.yml
+./playbooks/openstack/configuration.md
+./roles/container_runtime/tasks/package_docker.yml
+./roles/olm/files/rh-operators.configmap.yaml
+./roles/openshift_health_checker/openshift_checks/package_availability.py
+./roles/openshift_node/defaults/main.yml
+
